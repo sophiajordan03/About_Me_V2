@@ -12,13 +12,13 @@ body{
   padding: 0;
   text-align:center;
   list-style: none;
-  background-color: #f44336;
+  background-color: #6680cc;
 
 }
 
 .nav li{
   font-size:1.2em;
-  border-bottom: 1px solid #f44336;
+  border-bottom: 1px solid #6680cc;
   font-family: 'Raleway', sans-serif;
   display:inline-block;
 
@@ -40,12 +40,12 @@ body{
 
 .nav a:hover{
 background-color:white;
-color:black;
+color:#314a93;
 
 }
 .nav a.active{
     background-color:#fff;
-    color:#f44336;
+    color:#6680cc;
     cursor:default;
 
 }
@@ -74,14 +74,14 @@ height: 100%;
     margin: 0 ;
     padding:0;
     overflow: hidden;
-    background-color: #f44336;
+    background-color: #6680cc;
     list-style-type:none;
     display: inline-block;
 
 }
 
 .nav {
-  background-color: #f44336;
+  background-color: #6680cc;
   position:relative;
   -webkit-box-shadow: 0px -1px 28px 1px rgba(0,0,0,0.75);
 -moz-box-shadow: 0px -1px 28px 1px rgba(0,0,0,0.75);
@@ -92,7 +92,7 @@ height: 75px;
 }
 
   .banner {
-    background-color: #f44336;
+    background-color: #6680cc;
     width:100%;
     height:auto;
     padding-top:20px;
